@@ -26,8 +26,8 @@ author:
   avatar           : "personal image.jpg"
   name             : "Dingliang Chen （陈定粮）"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Chongqing"
+  bio              : "Lecturer, School of Mechanical Engineering, Chongqing University of Technology."
+  location         : "Chongqing, China"
   employer         : "Chongqing University of Technology"
   uri              : # URL
   email            : "cdl820@cqut.edu.cn" 
@@ -42,7 +42,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Dingliang-Chen?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 

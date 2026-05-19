@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about HI construction of variable-speed wind turbine bearings'
 date: 2025-07-01
 venue: 'July 1'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://chendingliang.github.io/files/PSN-HI.pdf'
 citation: 'Chen D, Wang Y, Chai Y, et al. A polynomial speed normalized health indicator for both incipient fault detection and prognosis of variable-speed wind turbine bearings[J]. Advanced Engineering Informatics, 2025, 66: 103455.'
 ---
 

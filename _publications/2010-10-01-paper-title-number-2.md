@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about HI construction of gear.'
 date: 2025-01-13
 venue: 'January 13'
-paperurl: 'https://chendingliang.github.io/files/paper2.pdf'
+paperurl: 'https://chendingliang.github.io/files/TH-HI.pdf'
 citation: 'Chen D, Zhou J, Qin Y. Unsupervised health indicator fusing time and frequency domain information and its application to remaining useful life prediction[J]. IEEE Transactions on Instrumentation and Measurement, 2025, 74: 1-12.'
 ---
 

@@ -11,35 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering , Chongqing University, 2025
+* B.S. in Mechatronic Engineering, North China Electric Power University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2025: lecturer
+  * Chongqing University of Technology
+  * Duties includes: teacher (机电系专任教师)
+  * Team: The Intelligent Equipment Technology Institute of Chongqing University of Technology (重庆理工大学智能装备技术研究院，团队负责人：重庆理工大学副校长彭艳教授)
 
 Publications
 ======

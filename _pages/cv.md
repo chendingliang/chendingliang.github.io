@@ -41,4 +41,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* More than 20 international authoritative journal reviewers（IEEE TII, IEEE TIE, IEEE TCYB, MSSP, RESS, ADVEI, IEEE IOT）
